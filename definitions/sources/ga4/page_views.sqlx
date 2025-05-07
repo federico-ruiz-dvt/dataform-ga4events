@@ -3,6 +3,7 @@ type: "table",
 schema: "dataform_sources",
 }
 
+# Branch fruiz-ws
 SELECT
 event_timestamp,
 user_pseudo_id,
