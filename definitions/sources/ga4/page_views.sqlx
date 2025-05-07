@@ -1,9 +1,10 @@
 config {
 type: "table",
-schema: "dataform_sources",
+schema: constants.WORK_SCHEMA,
 }
 
 # Branch fruiz-ws
+# Modificado en integracion
 SELECT
 event_timestamp,
 user_pseudo_id,
